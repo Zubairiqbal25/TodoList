@@ -1,8 +1,0 @@
-com/TodoList/RestAPI/RestApiApplication.class
-com/TodoList/models/TodoDTO.class
-com/TodoList/services/TodoServiceImpl.class
-com/TodoList/exceptions/TodoException.class
-com/TodoList/repository/TodoRepository.class
-com/TodoList/controller/TodoController.class
-com/TodoList/services/TodoService.class
-com/TodoList/models/Todo.class
